@@ -1,3 +1,30 @@
+# Angular Get Started
+
+[Guide](https://angular.io/guide/setup-local)
+
+npm install -g @angular/cli
+
+ng new my-app
+
+cd my-app
+ng serve --open
+
+## Dev Methodologies
+[Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development)
+
+## Project Dependencies
+[SCSS][https://sass-lang.com/guide]
+[RxJS](https://www.learnrxjs.io/)
+[Material UI](https://material.angular.io/components/categories)
+[Karma Site](https://karma-runner.github.io/4.0/index.html)
+[Karma Tests](https://www.npmjs.com/package/karma)
+
+
+### Related Orgs
+(Mocha Tests)[https://mochajs.org/]
+(TrustTIC)[https://github.com/TrustTIC]
+(SVG)[https://svgjs.com/docs/3.0/]
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
